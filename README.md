@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GitRelly
-- 👀 I’m interested in Python, SQL, SAS, Tableu, PowerBi, Qualtrics, VBA
-- 🌱 I’m currently learning SQL, SAS
+- 👀 I’m passionate about software development and data analytics.
 
 <!---
 GitRelly/GitRelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
